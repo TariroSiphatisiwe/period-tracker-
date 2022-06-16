@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/period-tracker-/static/css/main.45c12b7d.css",
+    "main.js": "/period-tracker-/static/js/main.fa475f82.js",
+    "static/js/787.4eab59ba.chunk.js": "/period-tracker-/static/js/787.4eab59ba.chunk.js",
+    "index.html": "/period-tracker-/index.html",
+    "main.45c12b7d.css.map": "/period-tracker-/static/css/main.45c12b7d.css.map",
+    "main.fa475f82.js.map": "/period-tracker-/static/js/main.fa475f82.js.map",
+    "787.4eab59ba.chunk.js.map": "/period-tracker-/static/js/787.4eab59ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c12b7d.css",
+    "static/js/main.fa475f82.js"
+  ]
+}
